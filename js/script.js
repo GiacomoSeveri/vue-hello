@@ -5,7 +5,7 @@ const app = Vue.createApp({
         return{
             firstName: 'Giacomo',
             secondName: 'Severi',
-            sources: 'img/35975.jpg'
+            sources: 'https://i.pinimg.com/originals/99/44/22/99442267a5033f945510a6b81a92d38d.jpg'
         }
     }
 });
